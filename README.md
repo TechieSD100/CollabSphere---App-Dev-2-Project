@@ -1,16 +1,26 @@
 # CollabSphere---App-Dev-2-Project
 
 WSL 0: Activate the Virtual Environment and install the necessary requirements.
-```cd Backend```
+```shell
+cd Backend
+```
 
-```python3 -m venv env```
+```shell
+python3 -m venv env
+```
 
-```source env/bin/activate```
+```shell
+source env/bin/activate
+```
 
-```pip3 install -r requirements.txt```
+```shell
+pip3 install -r requirements.txt
+```
 
 WSL 1:
+```shell
 redis-server
+```
 
 
 WSL 2:
