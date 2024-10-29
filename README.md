@@ -72,6 +72,7 @@ Run Mailhog for showing the incoming email service.
 
 
 ### CMD 1: Run Frontend.
+(Install Node JS for running Node Package Manager commands.)
 Install or update the necessary frontend libraries.
 ```shell
 npm install
